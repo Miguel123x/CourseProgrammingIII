@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "gsColorearNET/1.0.0.16": {
+        "runtime": {
+          "lib/netstandard2.0/gsColorearNET.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.16"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gsColorearNET/1.0.0.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CLDDO9H/lsQXBwl0fRNfbkXcI8d6xoV+E4y3WMdmDwXXkKUHeeKBhhy5tKZb+UnbyCqu8Pn240oMdqD5P7jCKg==",
+      "path": "gscolorearnet/1.0.0.16",
+      "hashPath": "gscolorearnet.1.0.0.16.nupkg.sha512"
+    }
+  }
+}

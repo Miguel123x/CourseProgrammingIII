@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "19x/DX+FtUEZtyyeQ33Tun41lZWh00bfOsVQqMFsSz1LXf2sawUh7tYYJb3JAugCqFU+9Nrv3tMPkOquuempNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrgam\\Documents\\CSharpLearning\\ProgIIIClass2\\ProgIIIClass2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrgam\\.nuget\\packages\\gscolorearnet\\1.0.0.16\\gscolorearnet.1.0.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
